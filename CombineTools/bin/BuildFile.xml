@@ -22,6 +22,10 @@
 <bin file="SOBPlot.cpp" name="SOBPlot"></bin>
 <bin file="YieldTable.cpp" name="YieldTable"></bin>
 <bin file="hzz4l.cpp" name="hzz4l"></bin>
+<bin file="jhchoi_v1.cpp" name="jhchoi_v1"></bin>
+<bin file="jhchoi_v2.cpp" name="jhchoi_v2"></bin>
+<bin file="jhchoi_v3.cpp" name="jhchoi_v3"></bin>
+<bin file="jhchoi_v4.cpp" name="jhchoi_v4"></bin>
 <use name="root"/>
 <use name="rootmath"/>
 <use name="roofit"/>
@@ -36,3 +40,4 @@
 <use name="boost_regex"/>
 <use name="rootpy"/>
 <use name="CombineHarvester/CombineTools"/>
+<use name="CombineHarvester/CombinePdfs"/>
